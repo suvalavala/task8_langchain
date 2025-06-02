@@ -10,5 +10,5 @@ I then tested the system with queries like “Can a sparrow fly?” using LangCh
 
 While this system doesn’t yet include full reasoning chains (e.g., CoT), it lays the groundwork for symbolic inference via neural RAG pipelines. This setup is lightweight and modular, making it a useful prototype for future extensions.
 
-GitHub repo: [INSERT YOUR GITHUB LINK]
+GitHub repo: [https://github.com/suvalavala/task8_langchain]
 
